@@ -1,2 +1,2 @@
 # data-science-curso
-Repositorio para compartir taras, quiz etc relacionados con el curso data science
+Repositorio para compartir tareas, quiz etc relacionados con el curso data science
